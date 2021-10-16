@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 create env
 
 ```bash
@@ -27,3 +28,9 @@ dvc add data_given/winequality_red.csv
 git add .
 
 git commit -m "first commit"
+=======
+# sample_dvc_demo
+
+This is a sample project
+````
+>>>>>>> fcc24e1cac62ff5d4f4641d505e66f74758f82d1
